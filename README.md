@@ -1,6 +1,8 @@
 # Centio.AI 💻
 
-**Alpha** AI assistant app that combines AI features with traditional productivity. Key features:
+**Alpha** AI assistant app that combines AI features with traditional productivity. 
+
+Key features:
 
 - **Chat** - Regular and Assistant chat modes:
   - Regular Chat: Create multiple chats, choose saved or temporary (throwaway) chat when you create it.
